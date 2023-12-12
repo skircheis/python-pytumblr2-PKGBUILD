@@ -1,0 +1,17 @@
+pkgbase = python-pytumblr2-git
+	pkgdesc = Python3 wrapper for Tumblr API, nostalgebraist's fork
+	pkgver = 0.2.2.r238.0d9d2fc
+	pkgrel = 1
+	url = https://github.com/nostalgebraist/pytumblr2
+	arch = any
+	license = Apache
+	makedepends = python-setuptools
+	makedepends = python-future
+	makedepends = python-requests
+	makedepends = python-requests-oauthlib
+	depends = python
+	provides = python-pytumblr2
+	source = pytumblr2::git+https://github.com/nostalgebraist/pytumblr2
+	sha256sums = SKIP
+
+pkgname = python-pytumblr2-git
