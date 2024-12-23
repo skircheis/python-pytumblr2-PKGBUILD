@@ -1,6 +1,6 @@
 pkgbase = python-pytumblr2-git
 	pkgdesc = Python3 wrapper for Tumblr API, nostalgebraist's fork
-	pkgver = 0.2.2.r238.0d9d2fc
+	pkgver = 0.2.4.r245.0a11d32
 	pkgrel = 2
 	url = https://github.com/nostalgebraist/pytumblr2
 	arch = any
